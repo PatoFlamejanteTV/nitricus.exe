@@ -12,8 +12,7 @@ WARNING: THIS WILL DESTROY YOUR COMPUTER!!! TRY ONLY ON A VIRTUAL MACHINE (VM)!!
 
 ==================================================================================
 
-64 bits version: https://github.com/PatoFlamejanteTV/nitricus.exe/tree/main/x64/Release
-32 bits version: https://github.com/PatoFlamejanteTV/nitricus.exe/tree/main/x86/Release
+NOTE: RUN AS ADMIN! Tested on Windows 8.1, 10 and 11! Windows 7 didnt works!
 
 [*] Tested on:
 
@@ -21,11 +20,15 @@ WARNING: THIS WILL DESTROY YOUR COMPUTER!!! TRY ONLY ON A VIRTUAL MACHINE (VM)!!
 	# = Works, but not that great, 
 	& = Trash, 
 	? = Untested, should work
+	! = DONT WORK
 
-	[-] (@) Windows 10
+	[-] (@) Windows 10 & 11
 		[>] Real Hardware
 
-	[-] (#) Windows 7
+	[-] (@) Windows 8.1
+		[>] Virtual Machine
+
+	[-] (!) Windows 7
 		[>] Virtual Machine
 		[>] NOTE: Currently, some payloads DON'T work on 7,
 		    i guess its because of 7 don't support some graphics
